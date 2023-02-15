@@ -140,7 +140,7 @@ typing_extensions==4.0.1
 
 urllib3==1.25.3 
 
-Werkzeug==0.15.5 
+Werkzeug==2.2.3 
 
 win-unicode-console==0.5 
 
