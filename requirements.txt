@@ -52,7 +52,7 @@ mixpanel==4.4.0
 
 mock==3.0.5 
 
-networkx==2.3 
+networkx==2.6 
 
 numexpr==2.6.9 
 
