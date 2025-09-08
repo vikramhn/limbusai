@@ -146,7 +146,7 @@ win-unicode-console==0.5
 
 wrapt==1.11.2 
 
-xmltodict==0.12.0 
+xmltodict==0.15.0 
 
 zmq==0.0.0 
 
