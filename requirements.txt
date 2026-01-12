@@ -138,9 +138,9 @@ termcolor==1.1.0
 
 typing_extensions==4.0.1 
 
-urllib3==1.25.3 
+urllib3==2.6.3 
 
-Werkzeug==0.15.5 
+Werkzeug==3.1.5 
 
 win-unicode-console==0.5 
 
